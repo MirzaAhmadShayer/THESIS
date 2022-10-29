@@ -17,3 +17,5 @@ graphical formats. We believe this will improve GAN research by providing an exc
 task. We also hope to improve the models further in the future and make an even more in depth comparison between the GAN architectures.
 
 Keywords: image generation, GAN, CGAN, DCGAN, VSGAN, WGAN, WGANGP, epochs, K Nearest Neighbors (KNN), Regression, Random Forest Classifier (RFC)
+
+Dataset URL: http://ai.stanford.edu/~jkrause/cars/car_dataset.html
